@@ -1,4 +1,4 @@
-# Bhavana Gogula
+# Gogula R Bhavana
 
 Senior Technical Writer | Platform Documentation Lead  
 Enterprise SaaS, iPaaS, API & Developer Documentation
