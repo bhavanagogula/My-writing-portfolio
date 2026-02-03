@@ -73,5 +73,3 @@ Due to confidentiality, many samples use anonymized product names. Selected exam
 - Email: bhavana.gogula@gmail.com  
 
 ---
-
-*This GitHub profile is intended to showcase my documentation experience, writing approach, and sample work for hiring managers and organizations.*
